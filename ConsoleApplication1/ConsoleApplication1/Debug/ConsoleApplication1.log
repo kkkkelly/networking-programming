@@ -1,0 +1,2 @@
+﻿  ConsoleApplication1.cpp
+c:\users\user\0610764\0918\consoleapplication1\consoleapplication1\consoleapplication1.cpp(12): error C4700: 使用了未初始化的區域變數 'c'
