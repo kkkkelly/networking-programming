@@ -1,0 +1,3 @@
+﻿  TCP_Select.cpp
+c:\users\user\0610764\1016\tcp_select\tcp_select\tcp_select.cpp(24): warning C4018: '<': signed/unsigned 不相符
+  TCP_Select.vcxproj -> C:\Users\user\0610764\1016\TCP_Select\Debug\TCP_Select.exe
