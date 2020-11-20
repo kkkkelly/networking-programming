@@ -1,0 +1,10 @@
+﻿  FTP.cpp
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(19): warning C4018: '<': signed/unsigned 不相符
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(20): warning C4018: '<': signed/unsigned 不相符
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(17): warning C4101: 'k': 未參考的區域變數
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(17): warning C4101: 'j': 未參考的區域變數
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(31): warning C4101: 'Port': 未參考的區域變數
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(32): warning C4101: 'IP': 未參考的區域變數
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(56): warning C4101: 'Port': 未參考的區域變數
+d:\陳芳瑩\documents\網路程式設計\1030\ftp\ftp\ftp.cpp(57): warning C4101: 'IP': 未參考的區域變數
+  FTP.vcxproj -> D:\陳芳瑩\Documents\網路程式設計\1030\FTP\Debug\FTP.exe
